@@ -19,7 +19,7 @@
 ### 📌 Featured Projects
 
 - [🛡️ Credit Card Fraud Detection](https://github.com/Brindhaa372/credit-card-fraud-detection)  
-- [📰 Fake News Classifier using NLP](#)  
+- [📰 Fake News Classifier using NLP](https://github.com/Brindhaa372/FakeNewsDetection)  
 - [☁️ AWS Secure VM Deployment](#)
 - [🔒 Smart PinLock System](#)
 
