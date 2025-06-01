@@ -20,7 +20,7 @@
 
 - [🛡️ Credit Card Fraud Detection](https://github.com/Brindhaa372/credit-card-fraud-detection)  
 - [📰 Fake News Classifier using NLP](https://github.com/Brindhaa372/FakeNewsDetection)  
-- [☁️ AWS Secure VM Deployment](#)
+- [☁️ AWS Secure VM Deployment](https://github.com/Brindhaa372/Deploying-Windows-VM-using-AWS)
 - [🔒 Smart PinLock System](https://github.com/Brindhaa372/Smart-Pin-Lock-System)
 
 ---
