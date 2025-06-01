@@ -21,6 +21,7 @@
 - [🛡️ Credit Card Fraud Detection](https://github.com/Brindhaa372/credit-card-fraud-detection)  
 - [📰 Fake News Classifier using NLP](#)  
 - [☁️ AWS Secure VM Deployment](#)
+- [🔒 Smart PinLock System](#)
 
 ---
 
@@ -32,21 +33,5 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brindhaa-senthilvelan-630773337/)
+[LinkedIn](https://www.linkedin.com/in/brindhaa-senthilvelan-630773337/)
 
-## Hi there 👋
-
-<!--
-**Brindhaa372/Brindhaa372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
